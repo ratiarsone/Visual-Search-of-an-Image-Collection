@@ -1,4 +1,3 @@
-Abstract
 This repository presents the design, implementation, and evaluation of a visual image retrieval
 system tested on the MSRC-v2 dataset (591 images, 20 object categories). Starting from a
 global colour histogram baseline (mAP = 0.167), I systematically investigated how spatial
